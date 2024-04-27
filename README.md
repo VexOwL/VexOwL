@@ -11,4 +11,4 @@
     <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
   </a>
   
-###:bookmark_tabs: [Моё резюме](https://spb.hh.ru/resume/d4355612ff0d13be3e0039ed1f56774c585241)
+### :bookmark_tabs: [Моё резюме](https://spb.hh.ru/resume/d4355612ff0d13be3e0039ed1f56774c585241)

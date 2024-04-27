@@ -3,3 +3,7 @@
   <h3>Junior Unity разработик</h3>
 </div>
 
+<div id="socials" align="center">
+  <a href="telegram-url">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>

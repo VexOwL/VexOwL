@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Привет! :wave: Я Никита.</h1>
-  <h3>:video_game: Junior Unity разработик</h3>
+  <h3>:video_game: Junior Unity разработчик</h3>
 </div>
 
 <div id="cv" align="center">

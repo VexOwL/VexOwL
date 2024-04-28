@@ -10,10 +10,10 @@
 
 <div id="socials" align="center">
   <h4> Контакты </h4>
-  <a href="t.me/vexowl">
+  <a href="http://t.me/vexowl">
     <img src="https://img.shields.io/badge/@vexowl-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="nickita.vex@gmail.com">
+  <a href="http://nickita.vex@gmail.com">
     <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
   </a>
 

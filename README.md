@@ -5,7 +5,7 @@
 
 <div id="cv" align="center">
   
-### :bookmark_tabs: [Моё резюме](https://spb.hh.ru/resume/d4355612ff0d13be3e0039ed1f56774c585241)
+### :bookmark_tabs: [Моё резюме](https://docs.google.com/document/d/14xi8fReBQUMR6UrU6Nk9H3JOUj5FwLAzL5iBrI1yHw0/edit?usp=sharing)
 </div>
 
 <div id="socials" align="center">

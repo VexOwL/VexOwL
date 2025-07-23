@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Привет! :wave: Я Никита.</h1>
-  <h3>:video_game: Junior Unity разработчик</h3>
+  <h3>:video_game: Unity разработчик</h3>
 </div>
 
 <div id="cv" align="center">
@@ -13,8 +13,8 @@
   <a href="http://t.me/vexowl">
     <img src="https://img.shields.io/badge/@vexowl-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="http://nickita.vex@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
+  <a href="mailto:nickita.vex@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="nickita.vex@gmail.com"/>
   </a>
 
 <div id="stack" align="left">

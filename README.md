@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/@vexowl-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:nickita.vex@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="nickita.vex@gmail.com"/>
+    <img src="https://img.shields.io/badge/nickita.vex@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
   </a>
 
 <div id="stack" align="left">

@@ -20,7 +20,5 @@
 <div id="stack" align="left">
 
   ### Main technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=unity,cs,unreal,cpp,git,vscode,figma" title="skills"/>&nbsp;
 </div>
